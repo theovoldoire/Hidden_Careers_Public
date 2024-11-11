@@ -1,4 +1,4 @@
-# Readme
+# Career Modeling with Missing Data and Traces public repository organization
 
 This describes the organization of scripts within the repository attached to the article "Career Modeling with Missing Data and Traces", Voldoire, Ryder, Lahfa. 
 
